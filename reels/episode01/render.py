@@ -117,8 +117,8 @@ def seconds_caption_lines(text):
     # Display phrase-sized subtitling without covering the illustrations.
     words=text.split(); groups=[]; i=0
     while i<len(words):
-        j=min(i+7,len(words))
-        if len(words)-j<=2 and j<len(words):j=len(words)
+        j=min(i+5,len(words))
+        if len(words)-j==1 and j<len(words):j=len(words)
         groups.append(' '.join(words[i:j]));i=j
     return groups
 
@@ -127,7 +127,7 @@ def clock(t):
     return f'{h}:{m:02d}:{s:05.2f}'
 
 def make_subtitles(durations):
-    lines=['[Script Info]','ScriptType: v4.00+','PlayResX: 1080','PlayResY: 1920','WrapStyle: 2','ScaledBorderAndShadow: yes','','[V4+ Styles]','Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding', 'Style: Default,DejaVu Sans,51,&H00FFFFFF,&H00FFFFFF,&H00121825,&H98070A19,-1,0,0,0,100,100,0,0,3,2,0,2,95,95,355,1','','[Events]','Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text']
+    lines=['[Script Info]','ScriptType: v4.00+','PlayResX: 1080','PlayResY: 1920','WrapStyle: 0','ScaledBorderAndShadow: yes','','[V4+ Styles]','Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding', 'Style: Default,DejaVu Sans,51,&H00FFFFFF,&H00FFFFFF,&H00121825,&H98070A19,-1,0,0,0,100,100,0,0,3,2,0,2,95,95,355,1','','[Events]','Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text']
     t=0.0
     for scene,duration in zip(SCENES,durations):
         groups=seconds_caption_lines(scene['voice']); speaking=duration-0.65
