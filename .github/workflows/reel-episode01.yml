@@ -1,0 +1,44 @@
+name: Render Kids Mahabharath Episode 1 Reel
+
+on:
+  push:
+    branches:
+      - reel/episode-01
+    paths:
+      - reels/episode01/**
+      - .github/workflows/reel-episode01.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - reels/episode01/**
+      - .github/workflows/reel-episode01.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out episode illustrations
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install video tools
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg espeak
+      - name: Install Python packages
+        run: python -m pip install --upgrade pillow numpy edge-tts
+      - name: Render narrated Instagram Reel
+        run: python reels/episode01/render.py
+      - name: Upload completed MP4
+        uses: actions/upload-artifact@v4
+        with:
+          name: Kids_Mahabharath_Episode_01_Instagram_Reel
+          path: reels/episode01/output/Kids_Mahabharath_Episode_01_Instagram_Reel.mp4
+          if-no-files-found: error
+          retention-days: 30
