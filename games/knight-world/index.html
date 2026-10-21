@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<title>Knight World – Knighty's Castle</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:Fredoka,"Baloo 2","Comic Sans MS",sans-serif;background:linear-gradient(#bfe6ff,#fde2f3 60%,#d7f7d4);min-height:100vh;color:#4a3a6a;text-align:center;user-select:none;overflow-x:hidden}
+button{font-family:inherit;cursor:pointer;border:0}
+#top{display:flex;justify-content:space-between;align-items:center;gap:6px;padding:8px 10px;flex-wrap:wrap}
+.pill{font-size:17px;padding:10px 16px;border-radius:999px;background:#fff;box-shadow:0 3px #0001;color:#6a4a9a;font-weight:600}
+#prog{display:flex;align-items:center;gap:6px;font-size:28px}
+.big{font-size:28px;font-weight:700;padding:16px 38px;border-radius:999px;background:#ff8fb1;color:#fff;box-shadow:0 6px #e0668c;margin:10px}
+.big.green{background:#6fd58a;box-shadow:0 6px #45a862}.big.blue{background:#7cb8ff;box-shadow:0 6px #4f8fdb}
+.big:active,.pill:active{transform:translateY(4px);box-shadow:0 1px #0002}
+#guide{display:flex;align-items:center;justify-content:center;gap:8px;margin:4px auto;max-width:720px;padding:0 10px}
+.knighty{width:110px;height:110px;flex:none}
+#bubble{background:#fff;border-radius:26px;padding:12px 18px;font-size:22px;position:relative;flex:1;text-align:left;box-shadow:0 4px #0001;min-height:60px}
+#bubble:before{content:"";position:absolute;left:-18px;top:28px;border:10px solid transparent;border-right:18px solid #fff}
+#status{font-size:20px;min-height:26px;font-weight:600;color:#8a5ac8}
+#board{display:grid;width:max-content;margin:8px auto;border:8px solid #b48cff;border-radius:18px;overflow:hidden;touch-action:manipulation;box-shadow:0 6px #9a6fe0}
+.sq{display:flex;align-items:center;justify-content:center;position:relative;font-size:calc(var(--s)*.6);cursor:pointer}
+.l{background:#fff6e0}.d{background:#ffcfa8}
+.sq svg{width:92%;height:92%}
+.sq.spark{animation:spark .7s infinite alternate}
+.sq.spark:after{content:"✨";position:absolute;font-size:calc(var(--s)*.45)}
+@keyframes spark{from{background:#fff7a8}to{background:#ffe14d}}
+.sq.good{background:#9be8a5!important}
+.sq.step{background:#bfe0ff!important}
+.lab{position:absolute;font-size:calc(var(--s)*.32);font-weight:700;color:#3a6fd0;line-height:1}
+.sq.bad{animation:shake .4s}
+@keyframes shake{25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+.land svg{animation:land .45s}
+@keyframes land{0%{transform:translateY(-40%) scale(.8)}60%{transform:translateY(5%) scale(1.1,.9)}100%{transform:none}}
+.num{position:absolute;bottom:2px;right:5px;font-size:calc(var(--s)*.28);font-weight:700;color:#d23a6a}
+/* Knighty */
+.kb{animation:bob 1.6s ease-in-out infinite;transform-origin:50% 90%}
+@keyframes bob{50%{transform:translateY(-4px) scale(1.02,.98)}}
+.eye{animation:blink 4s infinite;transform-box:fill-box;transform-origin:center}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+.mouth{transform-box:fill-box;transform-origin:center}
+.talking .mouth{animation:talk .18s infinite alternate}
+@keyframes talk{to{transform:scaleY(3.2)}}
+.dance .kb{animation:dance .5s ease-in-out 6}
+@keyframes dance{25%{transform:rotate(-12deg) translateY(-10px)}75%{transform:rotate(12deg) translateY(-10px)}}
+.screen{position:fixed;inset:0;display:none;flex-direction:column;align-items:center;justify-content:center;z-index:8;padding:16px;background:linear-gradient(#ffe7a3,#ffb8d6)}
+#start{display:flex}
+#start h1{font-size:50px;margin:6px;color:#7a3fc0}
+#start input{font-family:inherit;font-size:24px;padding:12px 18px;border-radius:999px;border:3px solid #c9a6ff;text-align:center;width:min(320px,80vw)}
+#overlay,#book{background:#0005}
+.card{background:#fff;border-radius:34px;padding:20px 28px;font-size:26px;max-width:92vw}
+#sticker{font-size:100px;animation:pop .7s}
+@keyframes pop{0%{transform:scale(0) rotate(-180deg)}70%{transform:scale(1.2)}100%{transform:scale(1)}}
+#stickers{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:12px}
+#stickers div{font-size:60px;background:#fff3c4;border-radius:22px;padding:10px}
+#stickers .lock{filter:grayscale(1);opacity:.35}
+.conf{position:fixed;top:-20px;width:12px;height:18px;border-radius:3px;z-index:20;pointer-events:none;animation:fall linear forwards}
+@keyframes fall{to{transform:translateY(110vh) rotate(720deg)}}
+.castle{width:44px;height:40px}
+.win-on{fill:#ffd93b;filter:drop-shadow(0 0 3px #ffb300)}.win-off{fill:#6b5a8a}
+#controls{min-height:20px}
+@media(max-width:600px){.knighty{width:80px;height:80px}#bubble{font-size:18px}.big{font-size:22px;padding:13px 28px}}
+</style></head><body>
+<div id="start" class="screen">
+ <div id="startK" class="knighty" style="width:170px;height:170px"></div>
+ <h1>Knighty's Castle</h1>
+ <div id="startCastle"></div>
+ <p style="font-size:20px;margin:6px">What's your name? <small>(grown-ups can type it, or skip)</small></p>
+ <input id="name" maxlength="16" placeholder="Name">
+ <button class="big" id="go">Let's play! ▶</button>
+</div>
+<div id="top">
+ <button class="pill" id="reset">↺ Start over</button>
+ <div id="prog"><span id="castleTop"></span><span id="stars"></span></div>
+ <div><button class="pill" id="bookBtn">📒 Stickers</button> <button class="pill" id="again">🔊 Again</button></div>
+</div>
+<div id="guide"><div id="guideK" class="knighty"></div><div id="bubble"></div></div>
+<div id="status"></div>
+<div id="board"></div>
+<div id="controls"></div>
+<div id="overlay" class="screen"><div class="card"><div id="sticker">⭐</div><div id="cardCastle"></div><div id="cardtxt"></div><button class="big green" id="next">Next ➜</button></div></div>
+<div id="book" class="screen"><div class="card"><div>My Sticker Book</div><div id="stickers"></div><button class="big blue" id="closeBook">Back to play</button></div></div>
+<script src="lines.js"></script>
+<script src="app.js"></script>
+</body></html>
