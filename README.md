@@ -6,25 +6,27 @@ Live site (GitHub Pages): https://skuntla.github.io/Kids-mahabharath/
 
 ## Structure
 ```
-index.html            Home page: episode list
-.nojekyll             Serve files as-is (no Jekyll)
+index.html              Home page: episode list
+.nojekyll               Serve files as-is (no Jekyll)
 episodes/
-  ep01/
-    index.html        Read-aloud page + picture reveal slideshow + "Listen instead" audio
-    story.md          Story text (source); *(pause)* marks pauses, **bold** = act-it-out words
-    episode1.mp3      Narration (edge-tts en-IN-NeerjaNeural, rate -10%, quiet background hum)
-    img/              1024px JPGs: 1-…5-… scene pictures + characters.jpg
+  ep01/  The River Goddess and the Brave Prince
+  ep02/  The Great Promise
+    index.html          Read-aloud page + "Reveal the pictures" slideshow + "Listen instead" audio + prev/next links
+    story.md            Story source (~500-650 words); *(pause)* = pause, **bold** = act-it-out words
+    episodeN.mp3        Narration (edge-tts en-IN-NeerjaNeural, rate -10%, short silences at pauses, quiet hum)
+    img/                ~1024px JPG scene pictures, numbered in slideshow order (5+ per episode)
 characters/
-  index.html          "Meet the characters" page
-  character-sheet.jpg Reference image
-  characters.md       Look of each character + art style, for consistent future pictures
-games/knight-world/   A small kids' game
+  index.html            "Meet the characters" page
+  characters.md         Look of each character, which episodes they appear in, which reference sheet to use
+  sheet-1-shantanu-ganga-devavrata.jpg
+  sheet-2-satyavati-dashraj.jpg
+games/knight-world/     A small kids' game
 ```
 
 ## Adding an episode
-1. Copy `episodes/ep01/` to `episodes/epNN/`.
-2. Write `story.md` (about 800-1000 words, faithful to the epic, gentle; end with a lesson, a question and "Goodnight").
-3. Make 5 scene pictures that follow `characters/characters.md` (add new characters there too); save as ~1024px JPGs in `img/`.
-4. Update `index.html` in the episode folder: story text, the slideshow list `S` (image, title, caption), and the episode list.
-5. Record narration, e.g. `edge-tts --voice en-IN-NeerjaNeural --rate=-10% -f story.txt --write-media episodeNN.mp3` (strip markdown/pause markers first).
-6. Link the episode from the root `index.html` (replace a "coming soon" entry) and push to `main`. GitHub Pages redeploys automatically.
+1. Copy `episodes/epNN/` from the latest episode to the next number.
+2. Write `story.md`: about 500-650 words (4-5 min read aloud), faithful to the epic and gentle. Start with a two-line "Last time..." recap; end with a lesson, a question and "Goodnight". Mark pauses with `*(pause)*` / `*(long pause)*`.
+3. Make at least 5 scene pictures following `characters/characters.md`, always attaching the listed reference sheets. Add new characters there with a new `sheet-N-....jpg`. Compress: `ffmpeg -i in.png -vf "scale='min(1024,iw)':-2" -q:v 4 img/1-name.jpg`.
+4. In the episode's `index.html`: update the title, story text, the slideshow list `S` (`[image, title, caption]`, with an optional 4th item listing names for a character-sheet slide), the prev/next links and the episode list. Also add a "Next" link to the previous episode.
+5. Record narration: strip markdown, run `edge-tts --voice en-IN-NeerjaNeural --rate=-10%` per pause-separated section, join with 1.2 s / 2.5 s silences, and mix in a quiet low hum with ffmpeg (about 4% volume).
+6. Link the episode on the root `index.html` and push to `main`. GitHub Pages redeploys automatically.
