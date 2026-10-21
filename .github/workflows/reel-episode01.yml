@@ -7,6 +7,12 @@ on:
     paths:
       - reels/episode01/**
       - .github/workflows/reel-episode01.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - reels/episode01/**
+      - .github/workflows/reel-episode01.yml
   workflow_dispatch:
 
 permissions:
