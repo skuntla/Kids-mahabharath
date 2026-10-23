@@ -9,8 +9,10 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-1-shantanu-ganga-devavrata.jpg` | King Shantanu, Ganga, Devavrata (Bhishma) |
 | `characters/sheet-2-satyavati-dashraj.jpg` | Satyavati, Fisherman Chief Dashraj |
 | `characters/sheet-3-chitrangada-vichitravirya.jpg` | Prince Chitrangada, Prince Vichitravirya |
+| `characters/sheet-4-amba-ambika-ambalika.jpg` | Princess Amba, Princess Ambika, Princess Ambalika |
+| `characters/sheet-5-king-of-kashi-shalva.jpg` | King of Kashi, King Shalva |
 
-Add a new sheet file per new character group (`sheet-3-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-6-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -54,8 +56,35 @@ Add a new sheet file per new character group (`sheet-3-….jpg`), and add the ch
 ## Vichitravirya
 - Reference: `sheet-3-chitrangada-vichitravirya.jpg` (right)
 - Appears in: Episode 3 onward
+- In Episode 4 he is a grown young man (~20): same face, curly hair, peacock feather and colors, with a gold crown
 - Younger son of King Shantanu and Satyavati; gentle, loves stories; becomes the boy-king, with Bhishma protecting the kingdom for him
 - Warm brown skin, curly black hair with a small peacock feather (and a small gold crown once king); light blue and cream dhoti with gold trim and a cream shawl; gold necklace; small toy bow
+
+## Amba
+- Reference: `sheet-4-amba-ambika-ambalika.jpg` (left)
+- Appears in: Episode 4 onward (her own story continues in Episode 5)
+- Eldest princess of Kashi, thoughtful and brave; had already chosen King Shalva in her heart
+- Warm brown skin, tall, serious kind eyes; long black hair in a single braid with red roses; deep crimson-red sari with gold border; gold jhumka earrings and small gold tiara
+
+## Ambika
+- Reference: `sheet-4-amba-ambika-ambalika.jpg` (middle)
+- Appears in: Episode 4 onward; marries King Vichitravirya
+- Middle princess, cheerful; warm brown skin, round face, black hair in a bun with jasmine; marigold-yellow sari with green border; gold tiara and bangles
+
+## Ambalika
+- Reference: `sheet-4-amba-ambika-ambalika.jpg` (right)
+- Appears in: Episode 4 onward; marries King Vichitravirya
+- Youngest princess, shy and sweet; lighter warm skin, short side-swept black hair with a lotus flower; soft lavender-pink sari with silver border; small silver tiara
+
+## King of Kashi
+- Reference: `sheet-5-king-of-kashi-shalva.jpg` (left)
+- Appears in: Episode 4
+- Father of the three princesses; older, plump, friendly; grey moustache, round gold crown; green and gold robes with a white shawl
+
+## King Shalva
+- Reference: `sheet-5-king-of-kashi-shalva.jpg` (right)
+- Appears in: Episode 4, Episode 5
+- Proud young king of Saubha; warm brown skin, thin black moustache, pointed silver crown; dark blue armor-tunic with silver trim, blue cape; sword and bow
 
 ## Gandharva Chitrangada (sky-warrior)
 - No sheet (appears once, Episode 3): a shining sky-being in silver-blue robes with long flowing silver hair and a halo of light, floating in clouds

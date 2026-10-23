@@ -12,6 +12,7 @@ episodes/
   ep01/  The River Goddess and the Brave Prince
   ep02/  The Great Promise
   ep03/  Big Brother Bhishma
+  ep04/  The Three Princesses of Kashi
     index.html          Read-aloud page + "Reveal the pictures" slideshow + "Listen instead" audio + prev/next links
     story.md            Story source (~500-650 words); *(pause)* = pause, **bold** = act-it-out words
     episodeN.mp3        Narration (edge-tts en-IN-NeerjaNeural, rate -10%, short silences at pauses, quiet hum)
@@ -22,6 +23,8 @@ characters/
   sheet-1-shantanu-ganga-devavrata.jpg
   sheet-2-satyavati-dashraj.jpg
   sheet-3-chitrangada-vichitravirya.jpg
+  sheet-4-amba-ambika-ambalika.jpg
+  sheet-5-king-of-kashi-shalva.jpg
 games/knight-world/     A small kids' game
 ```
 
