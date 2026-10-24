@@ -11,8 +11,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-3-chitrangada-vichitravirya.jpg` | Prince Chitrangada, Prince Vichitravirya |
 | `characters/sheet-4-amba-ambika-ambalika.jpg` | Princess Amba, Princess Ambika, Princess Ambalika |
 | `characters/sheet-5-king-of-kashi-shalva.jpg` | King of Kashi, King Shalva |
+| `characters/sheet-6-parashurama-hotravahana.jpg` | Sage Parashurama, Sage Hotravahana |
 
-Add a new sheet file per new character group (`sheet-6-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-7-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -23,7 +24,7 @@ Add a new sheet file per new character group (`sheet-6-….jpg`), and add the ch
 
 ## Ganga (the river goddess)
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (middle)
-- Appears in: Episode 1 (mentioned in Episode 2's recap)
+- Appears in: Episode 1 (mentioned in Episode 2's recap), Episode 5 (stops the fight between Bhishma and Parashurama)
 - Light blue skin, serene smile; very long flowing blue-black hair
 - Sea-green / teal translucent sari with gold borders; small lotus crown; gold jewelry; often barefoot near water
 
@@ -62,7 +63,7 @@ Add a new sheet file per new character group (`sheet-6-….jpg`), and add the ch
 
 ## Amba
 - Reference: `sheet-4-amba-ambika-ambalika.jpg` (left)
-- Appears in: Episode 4 onward (her own story continues in Episode 5)
+- Appears in: Episode 4, Episode 5 (Shalva and Bhishma both turn her away; she goes to the forest, then to Parashurama, then sets off to pray to Shiva), story continues in Episode 6
 - Eldest princess of Kashi, thoughtful and brave; had already chosen King Shalva in her heart
 - Warm brown skin, tall, serious kind eyes; long black hair in a single braid with red roses; deep crimson-red sari with gold border; gold jhumka earrings and small gold tiara
 
@@ -83,8 +84,20 @@ Add a new sheet file per new character group (`sheet-6-….jpg`), and add the ch
 
 ## King Shalva
 - Reference: `sheet-5-king-of-kashi-shalva.jpg` (right)
-- Appears in: Episode 4, Episode 5
+- Appears in: Episode 4, Episode 5 (refuses to marry Amba)
 - Proud young king of Saubha; warm brown skin, thin black moustache, pointed silver crown; dark blue armor-tunic with silver trim, blue cape; sword and bow
 
 ## Gandharva Chitrangada (sky-warrior)
 - No sheet (appears once, Episode 3): a shining sky-being in silver-blue robes with long flowing silver hair and a halo of light, floating in clouds
+
+## Sage Parashurama
+- Reference: `sheet-6-parashurama-hotravahana.jpg` (left)
+- Appears in: Episode 5
+- Mighty warrior-sage and Bhishma's archery teacher (Guru); fights Bhishma for days on Amba's behalf until Ganga and the gods stop them
+- Tall and strong, warm brown skin, long white beard, white hair in a top-knot, white ash lines and red dot on forehead; saffron-orange dhoti and shoulder cloth, rudraksha beads; axe (parashu) over the shoulder, quiver and big bow, sandals
+
+## Sage Hotravahana
+- Reference: `sheet-6-parashurama-hotravahana.jpg` (right)
+- Appears in: Episode 5
+- Princess Amba's grandfather (her mother's father), a gentle forest sage who sends her to Parashurama
+- Small, elderly, bald with a little white hair at the sides, short white beard, round kind face; white dhoti and cream shawl; wooden walking staff and small copper water pot
