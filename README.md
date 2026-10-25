@@ -14,6 +14,7 @@ episodes/
   ep03/  Big Brother Bhishma
   ep04/  The Three Princesses of Kashi
   ep05/  Amba's Brave Journey
+  ep06/  Amba's Wish
     index.html          Read-aloud page + "Reveal the pictures" slideshow + "Listen instead" audio + prev/next links
     story.md            Story source (~500-650 words); *(pause)* = pause, **bold** = act-it-out words
     episodeN.mp3        Narration (edge-tts en-IN-NeerjaNeural, rate -10%, short silences at pauses, quiet hum)
@@ -27,6 +28,7 @@ characters/
   sheet-4-amba-ambika-ambalika.jpg
   sheet-5-king-of-kashi-shalva.jpg
   sheet-6-parashurama-hotravahana.jpg
+  sheet-7-shiva-drupada-shikhandi.jpg
 games/knight-world/     A small kids' game
 ```
 

@@ -12,8 +12,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-4-amba-ambika-ambalika.jpg` | Princess Amba, Princess Ambika, Princess Ambalika |
 | `characters/sheet-5-king-of-kashi-shalva.jpg` | King of Kashi, King Shalva |
 | `characters/sheet-6-parashurama-hotravahana.jpg` | Sage Parashurama, Sage Hotravahana |
+| `characters/sheet-7-shiva-drupada-shikhandi.jpg` | Lord Shiva, King Drupada, Shikhandi (as a child) |
 
-Add a new sheet file per new character group (`sheet-7-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-8-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -30,7 +31,7 @@ Add a new sheet file per new character group (`sheet-7-….jpg`), and add the ch
 
 ## Devavrata / Bhishma
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (right)
-- Appears in: Episode 1 (as Devavrata), Episode 2 onward
+- Appears in: Episode 1 (as Devavrata), Episode 2 onward (Episode 6: looks at the stars on the palace roof, remembering Amba)
 - **Called Devavrata in Episode 1; called Bhishma from Episode 2 on** (after his great promise)
 - Teen/young man, warm brown skin, curly black hair, gold headband
 - White dhoti with gold trim, purple sash across the chest, teal/sea-green shawl; tall curved wooden bow; gold armbands, sandals
@@ -63,7 +64,7 @@ Add a new sheet file per new character group (`sheet-7-….jpg`), and add the ch
 
 ## Amba
 - Reference: `sheet-4-amba-ambika-ambalika.jpg` (left)
-- Appears in: Episode 4, Episode 5 (Shalva and Bhishma both turn her away; she goes to the forest, then to Parashurama, then sets off to pray to Shiva), story continues in Episode 6
+- Appears in: Episode 4, Episode 5 (Shalva and Bhishma both turn her away; she goes to the forest, then to Parashurama, then sets off to pray to Shiva), Episode 6 (prays in the snowy mountains; Shiva grants her wish; her spirit rises to be born again as Shikhandi)
 - Eldest princess of Kashi, thoughtful and brave; had already chosen King Shalva in her heart
 - Warm brown skin, tall, serious kind eyes; long black hair in a single braid with red roses; deep crimson-red sari with gold border; gold jhumka earrings and small gold tiara
 
@@ -101,3 +102,20 @@ Add a new sheet file per new character group (`sheet-7-….jpg`), and add the ch
 - Appears in: Episode 5
 - Princess Amba's grandfather (her mother's father), a gentle forest sage who sends her to Parashurama
 - Small, elderly, bald with a little white hair at the sides, short white beard, round kind face; white dhoti and cream shawl; wooden walking staff and small copper water pot
+
+## Lord Shiva
+- Reference: `sheet-7-shiva-drupada-shikhandi.jpg` (left)
+- Appears in: Episode 6 (appears to Amba in the snowy mountains and grants her wish)
+- Calm, kind god; light blue skin, long dark matted hair in a top-knot with a silver crescent moon and a small stream of water, third-eye mark; friendly small cobra around his neck, rudraksha beads, tiger-skin-pattern wrap with red sash; silver trident (trishul) with a small damaru drum; barefoot. Shown glowing in soft blue light
+
+## King Drupada
+- Reference: `sheet-7-shiva-drupada-shikhandi.jpg` (middle)
+- Appears in: Episode 6 onward
+- Good king of Panchala; father of Shikhandi (and later Draupadi and Dhrishtadyumna)
+- Middle-aged, warm brown skin, neat black beard with a little grey, kind eyes; tall gold crown with a red ruby; maroon and gold robes with a mustard-yellow shawl; gold necklaces; sandals. His queen (no sheet): ivory and gold sari with head veil
+
+## Shikhandi
+- Reference: `sheet-7-shiva-drupada-shikhandi.jpg` (right)
+- Appears in: Episode 6 onward
+- Amba born again as King Drupada's child; brave, loves horses and archery. Will face Bhishma in the great battle far in the future (Shiva's boon). Avoid gendered pronouns in the kids' text for now (use "Shikhandi")
+- Shown as a child (~10): warm brown skin, determined eyes, black hair in a high top-knot with a small red ribbon; forest-green and gold tunic with red sash, cream dhoti; leather arm guard; small wooden bow and quiver; sandals
