@@ -13,8 +13,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-5-king-of-kashi-shalva.jpg` | King of Kashi, King Shalva |
 | `characters/sheet-6-parashurama-hotravahana.jpg` | Sage Parashurama, Sage Hotravahana |
 | `characters/sheet-7-shiva-drupada-shikhandi.jpg` | Lord Shiva, King Drupada, Shikhandi (as a child) |
+| `characters/sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` | Sage Vyasa, young Dhritarashtra, young Pandu, young Vidura |
 
-Add a new sheet file per new character group (`sheet-8-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-9-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -39,7 +40,7 @@ Add a new sheet file per new character group (`sheet-8-….jpg`), and add the ch
 
 ## Satyavati
 - Reference: `sheet-2-satyavati-dashraj.jpg` (left)
-- Appears in: Episode 2 onward (Queen Satyavati from Episode 3)
+- Appears in: Episode 2 onward (Queen Satyavati from Episode 3; Episode 7 calls her first son Vyasa)
 - Kind young woman, a fisherman's daughter who rows a boat across the river; her presence smells of flowers
 - Long dark braid with white flowers; coral-red and cream sari with gold border; gold earrings and bangles; wooden oar
 
@@ -57,7 +58,7 @@ Add a new sheet file per new character group (`sheet-8-….jpg`), and add the ch
 
 ## Vichitravirya
 - Reference: `sheet-3-chitrangada-vichitravirya.jpg` (right)
-- Appears in: Episode 3 onward
+- Appears in: Episode 3, Episode 4, Episode 7 (falls sick and passes away gently, without children)
 - In Episode 4 he is a grown young man (~20): same face, curly hair, peacock feather and colors, with a gold crown
 - Younger son of King Shantanu and Satyavati; gentle, loves stories; becomes the boy-king, with Bhishma protecting the kingdom for him
 - Warm brown skin, curly black hair with a small peacock feather (and a small gold crown once king); light blue and cream dhoti with gold trim and a cream shawl; gold necklace; small toy bow
@@ -70,12 +71,12 @@ Add a new sheet file per new character group (`sheet-8-….jpg`), and add the ch
 
 ## Ambika
 - Reference: `sheet-4-amba-ambika-ambalika.jpg` (middle)
-- Appears in: Episode 4 onward; marries King Vichitravirya
+- Appears in: Episode 4 onward; marries King Vichitravirya; mother of Dhritarashtra (Episode 7: shuts her eyes when she sees Sage Vyasa)
 - Middle princess, cheerful; warm brown skin, round face, black hair in a bun with jasmine; marigold-yellow sari with green border; gold tiara and bangles
 
 ## Ambalika
 - Reference: `sheet-4-amba-ambika-ambalika.jpg` (right)
-- Appears in: Episode 4 onward; marries King Vichitravirya
+- Appears in: Episode 4 onward; marries King Vichitravirya; mother of Pandu (Episode 7: turns pale when she sees Sage Vyasa)
 - Youngest princess, shy and sweet; lighter warm skin, short side-swept black hair with a lotus flower; soft lavender-pink sari with silver border; small silver tiara
 
 ## King of Kashi
@@ -119,3 +120,30 @@ Add a new sheet file per new character group (`sheet-8-….jpg`), and add the ch
 - Appears in: Episode 6 onward
 - Amba born again as King Drupada's child; brave, loves horses and archery. Will face Bhishma in the great battle far in the future (Shiva's boon). Avoid gendered pronouns in the kids' text for now (use "Shikhandi")
 - Shown as a child (~10): warm brown skin, determined eyes, black hair in a high top-knot with a small red ribbon; forest-green and gold tunic with red sash, cream dhoti; leather arm guard; small wooden bow and quiver; sandals
+
+## Sage Vyasa (Veda Vyasa)
+- Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (left)
+- Appears in: Episode 7 onward
+- Satyavati's first son (born long before she married Shantanu); great forest sage who later tells the whole Mahabharata. Blesses the family so the princes are born
+- Tall, dark brown skin, long tangled dark hair in a loose top-knot, big bushy dark beard, white ash marks on forehead; ochre spotted deer-skin wrap and cream shoulder cloth; rudraksha beads; wooden staff and palm-leaf manuscript bundle; barefoot
+
+## Dhritarashtra
+- Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (second from left)
+- Appears in: Episode 7 onward
+- Son of Queen Ambika; born blind (eyes always gently closed), as strong as a hundred elephants
+- Shown as a boy (~10): big, broad, warm brown skin, wavy black hair, small gold crown; royal blue and gold tunic with white dhoti, gold armbands. Later grown up: same face and colors
+
+## Pandu
+- Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (third from left)
+- Appears in: Episode 7 onward
+- Son of Queen Ambalika; pale skin; a wonderful archer (future father of the Pandavas)
+- Shown as a boy (~9): slim, noticeably pale ivory skin, straight black hair, small gold crown; white and silver tunic and dhoti with a sky-blue sash; small bow and quiver
+
+## Vidura
+- Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (right)
+- Appears in: Episode 7 onward
+- Son of the kind palace maid (helper); the wisest of all, always knows what is fair
+- Shown as a boy (~8): warm brown skin, neat short black hair, no crown; soft green and cream dhoti and shoulder cloth; palm-leaf scroll
+
+## The kind palace maid (Vidura's mother)
+- No sheet (Episode 7): warm brown skin, hair in a neat bun, simple cream cotton sari with leaf-green border and blouse, gentle smile
