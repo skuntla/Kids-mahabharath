@@ -14,8 +14,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-6-parashurama-hotravahana.jpg` | Sage Parashurama, Sage Hotravahana |
 | `characters/sheet-7-shiva-drupada-shikhandi.jpg` | Lord Shiva, King Drupada, Shikhandi (as a child) |
 | `characters/sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` | Sage Vyasa, young Dhritarashtra, young Pandu, young Vidura |
+| `characters/sheet-9-gandhari-shakuni-subala.jpg` | Princess Gandhari, Prince Shakuni, King Subala |
 
-Add a new sheet file per new character group (`sheet-9-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-10-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -106,7 +107,7 @@ Add a new sheet file per new character group (`sheet-9-….jpg`), and add the ch
 
 ## Lord Shiva
 - Reference: `sheet-7-shiva-drupada-shikhandi.jpg` (left)
-- Appears in: Episode 6 (appears to Amba in the snowy mountains and grants her wish)
+- Appears in: Episode 8 (blesses Gandhari with a hundred children); Episode 6 (appears to Amba in the snowy mountains and grants her wish)
 - Calm, kind god; light blue skin, long dark matted hair in a top-knot with a silver crescent moon and a small stream of water, third-eye mark; friendly small cobra around his neck, rudraksha beads, tiger-skin-pattern wrap with red sash; silver trident (trishul) with a small damaru drum; barefoot. Shown glowing in soft blue light
 
 ## King Drupada
@@ -130,20 +131,44 @@ Add a new sheet file per new character group (`sheet-9-….jpg`), and add the ch
 ## Dhritarashtra
 - Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (second from left)
 - Appears in: Episode 7 onward
+- Episode 8: grown up (~20), same face/colors, eyes closed; marries Gandhari; not made king because he cannot see. Reference for grown look: `episodes/ep08/img/1-practice.jpg`, `7-wedding.jpg`
 - Son of Queen Ambika; born blind (eyes always gently closed), as strong as a hundred elephants
 - Shown as a boy (~10): big, broad, warm brown skin, wavy black hair, small gold crown; royal blue and gold tunic with white dhoti, gold armbands. Later grown up: same face and colors
 
 ## Pandu
 - Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (third from left)
 - Appears in: Episode 7 onward
+- Episode 8: grown up and crowned King Pandu (tall gold crown); reference `episodes/ep08/img/2-crown.jpg`
 - Son of Queen Ambalika; pale skin; a wonderful archer (future father of the Pandavas)
 - Shown as a boy (~9): slim, noticeably pale ivory skin, straight black hair, small gold crown; white and silver tunic and dhoti with a sky-blue sash; small bow and quiver
 
 ## Vidura
 - Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (right)
 - Appears in: Episode 7 onward
+- Episode 8: grown up, comforts Dhritarashtra at Pandu's crowning
 - Son of the kind palace maid (helper); the wisest of all, always knows what is fair
 - Shown as a boy (~8): warm brown skin, neat short black hair, no crown; soft green and cream dhoti and shoulder cloth; palm-leaf scroll
 
 ## The kind palace maid (Vidura's mother)
 - No sheet (Episode 7): warm brown skin, hair in a neat bun, simple cream cotton sari with leaf-green border and blouse, gentle smile
+
+## Gandhari
+- Reference: `sheet-9-gandhari-shakuni-subala.jpg` (left)
+- Appears in: Episode 8 onward
+- Princess of Gandhara (mountain kingdom); blessed by Shiva to have a hundred children; marries Dhritarashtra and ties a blindfold over her eyes for life, to share his blindness (shown without blindfold only before she learns, e.g. `episodes/ep08/img/3-blessing.jpg`)
+- Warm brown skin, gentle calm smile; long dark wavy braid with small blue flowers; deep teal-blue sari with gold paisley border, light gold head veil; gold necklace, jhumka earrings, bangles; soft folded cream-white silk blindfold tied behind her head
+
+## Shakuni
+- Reference: `sheet-9-gandhari-shakuni-subala.jpg` (middle)
+- Appears in: Episode 8 onward
+- Gandhari's younger brother, prince of Gandhara; very clever, loves his sister, brings her to Hastinapura (later becomes the tricky uncle of the Kauravas, keep gentle for now)
+- Slim young man, light warm skin, sharp clever eyes, thin black moustache and neat short beard, shoulder-length black hair; dark green turban with peacock-feather jewel; emerald-green and gold long coat (angarkha) with mustard sash; small pair of ivory dice
+
+## King Subala
+- Reference: `sheet-9-gandhari-shakuni-subala.jpg` (right)
+- Appears in: Episode 8
+- King of Gandhara, father of Gandhari and Shakuni
+- Older, light warm skin, white hair and long white beard; tall silver-and-gold crown with blue sapphire; dark blue and silver robes with heavy white woollen shawl; carved wooden staff
+
+## Queen Satyavati (older) and Bhishma in Episode 8
+- Satyavati shown older with grey in her flowered braid, same coral-red sari. Bhishma shown with curly black hair and beard (touch of grey), gold headband, white dhoti, purple sash, teal shawl (see `episodes/ep07/img/6-princes.jpg`)

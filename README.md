@@ -16,6 +16,7 @@ episodes/
   ep05/  Amba's Brave Journey
   ep06/  Amba's Wish
   ep07/  Three Little Princes
+  ep08/  The Princess with the Blindfold
     index.html          Read-aloud page + "Reveal the pictures" slideshow + "Listen instead" audio + prev/next links
     story.md            Story source (~500-650 words); *(pause)* = pause, **bold** = act-it-out words
     episodeN.mp3        Narration (edge-tts en-IN-NeerjaNeural, rate -10%, short silences at pauses, quiet hum)
