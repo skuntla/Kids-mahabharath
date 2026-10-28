@@ -15,8 +15,10 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-7-shiva-drupada-shikhandi.jpg` | Lord Shiva, King Drupada, Shikhandi (as a child) |
 | `characters/sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` | Sage Vyasa, young Dhritarashtra, young Pandu, young Vidura |
 | `characters/sheet-9-gandhari-shakuni-subala.jpg` | Princess Gandhari, Prince Shakuni, King Subala |
+| `characters/sheet-10-kunti-kuntibhoja-durvasa.jpg` | Princess Kunti, King Kuntibhoja, Sage Durvasa |
+| `characters/sheet-11-surya-adhiratha-radha.jpg` | Surya (Sun God), Adhiratha, Radha holding baby Karna |
 
-Add a new sheet file per new character group (`sheet-10-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-12-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -172,3 +174,46 @@ Add a new sheet file per new character group (`sheet-10-….jpg`), and add the c
 
 ## Queen Satyavati (older) and Bhishma in Episode 8
 - Satyavati shown older with grey in her flowered braid, same coral-red sari. Bhishma shown with curly black hair and beard (touch of grey), gold headband, white dhoti, purple sash, teal shawl (see `episodes/ep07/img/6-princes.jpg`)
+
+## Kunti (born Pritha)
+- Reference: `sheet-10-kunti-kuntibhoja-durvasa.jpg` (left)
+- Appears in: Episode 9 onward (shown as a small child of ~5 in `episodes/ep09/img/1-new-home.jpg`; teenager ~15 elsewhere)
+- Daughter of King Shurasena, given to and raised by King Kuntibhoja, who renames her Kunti. Receives Durvasa's secret prayer; calls Surya; mother of Karna (later marries Pandu)
+- Warm brown skin, big gentle eyes; long black braid with pink lotus flowers; rose-pink and gold sari with gold border; small gold tiara; gold bangles; small brass oil lamp
+
+## King Kuntibhoja
+- Reference: `sheet-10-kunti-kuntibhoja-durvasa.jpg` (middle)
+- Appears in: Episode 9 onward
+- Kunti's loving adoptive father; older, round kind face, white moustache and short white beard; wide gold crown with green emerald; mustard-yellow and gold robes with deep red shawl; gold necklaces
+
+## Sage Durvasa
+- Reference: `sheet-10-kunti-kuntibhoja-durvasa.jpg` (right)
+- Appears in: Episode 9
+- Famous short-tempered sage; gives Kunti the secret prayer (mantra) to call any god
+- Thin, wild white hair in top-knot, long pointed white beard, bushy eyebrows, red mark on forehead; saffron-red dhoti and shoulder cloth; rudraksha beads; wooden staff and copper water pot; barefoot
+
+## King Shurasena
+- No sheet (Episode 9): Kunti's birth father; middle-aged, black beard, silver crown with green jewel, sky-blue robes with deep blue shawl (see `episodes/ep09/img/1-new-home.jpg`)
+
+## Surya (the Sun God)
+- Reference: `sheet-11-surya-adhiratha-radha.jpg` (left)
+- Appears in: Episode 9 onward; Karna's father
+- Golden-orange skin, kind smile, big radiant golden sun-disc halo; tall golden crown; red and gold robes with golden armour; red lotus; glowing golden rays
+
+## Adhiratha
+- Reference: `sheet-11-surya-adhiratha-radha.jpg` (middle)
+- Appears in: Episode 9 onward
+- Kind chariot driver who finds baby Karna in a basket on the river; Karna's foster father
+- Warm brown skin, black moustache, white turban; brown vest over cream kurta, white dhoti; horse whip
+
+## Radha
+- Reference: `sheet-11-surya-adhiratha-radha.jpg` (right)
+- Appears in: Episode 9 onward
+- Adhiratha's wife, raises Karna as her own (he is also called Radheya)
+- Warm brown skin, loving smile, black hair in bun with marigolds; indigo-blue cotton sari with orange/gold border
+
+## Karna (Vasusena)
+- Reference: `sheet-11-surya-adhiratha-radha.jpg` (baby in Radha's arms), `episodes/ep09/img/5-basket.jpg`
+- Appears in: Episode 9 onward
+- Son of Kunti and Surya, born with golden armour (kavacha) on his chest and golden earrings (kundala); named Vasusena by Adhiratha and Radha, later known as Karna
+- Baby: curly black hair, chubby, glowing softly, tiny golden armour and earrings. Later: same golden armour and earrings, warm brown skin
