@@ -17,8 +17,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-9-gandhari-shakuni-subala.jpg` | Princess Gandhari, Prince Shakuni, King Subala |
 | `characters/sheet-10-kunti-kuntibhoja-durvasa.jpg` | Princess Kunti, King Kuntibhoja, Sage Durvasa |
 | `characters/sheet-11-surya-adhiratha-radha.jpg` | Surya (Sun God), Adhiratha, Radha holding baby Karna |
+| `characters/sheet-12-madri-shalya.jpg` | Princess Madri, King Shalya |
 
-Add a new sheet file per new character group (`sheet-12-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-13-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -141,6 +142,7 @@ Add a new sheet file per new character group (`sheet-12-….jpg`), and add the c
 - Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (third from left)
 - Appears in: Episode 7 onward
 - Episode 8: grown up and crowned King Pandu (tall gold crown); reference `episodes/ep08/img/2-crown.jpg`
+- Episode 10: chosen by Kunti at her swayamvara, marries Madri too, wins many lands and shares the treasure; clean-shaven, curly black hair, pale ivory skin, white/silver dhoti with sky-blue sash, bow on shoulder (see `episodes/ep10/img/3-garland.jpg`, `6-share.jpg`)
 - Son of Queen Ambalika; pale skin; a wonderful archer (future father of the Pandavas)
 - Shown as a boy (~9): slim, noticeably pale ivory skin, straight black hair, small gold crown; white and silver tunic and dhoti with a sky-blue sash; small bow and quiver
 
@@ -177,7 +179,7 @@ Add a new sheet file per new character group (`sheet-12-….jpg`), and add the c
 
 ## Kunti (born Pritha)
 - Reference: `sheet-10-kunti-kuntibhoja-durvasa.jpg` (left)
-- Appears in: Episode 9 onward (shown as a small child of ~5 in `episodes/ep09/img/1-new-home.jpg`; teenager ~15 elsewhere)
+- Appears in: Episode 9 onward (shown as a small child of ~5 in `episodes/ep09/img/1-new-home.jpg`; teenager ~15 elsewhere). Episode 10: grown up (~18), chooses Pandu at her swayamvara and becomes Queen Kunti (see `episodes/ep10/img/3-garland.jpg`)
 - Daughter of King Shurasena, given to and raised by King Kuntibhoja, who renames her Kunti. Receives Durvasa's secret prayer; calls Surya; mother of Karna (later marries Pandu)
 - Warm brown skin, big gentle eyes; long black braid with pink lotus flowers; rose-pink and gold sari with gold border; small gold tiara; gold bangles; small brass oil lamp
 
@@ -217,3 +219,13 @@ Add a new sheet file per new character group (`sheet-12-….jpg`), and add the c
 - Appears in: Episode 9 onward
 - Son of Kunti and Surya, born with golden armour (kavacha) on his chest and golden earrings (kundala); named Vasusena by Adhiratha and Radha, later known as Karna
 - Baby: curly black hair, chubby, glowing softly, tiny golden armour and earrings. Later: same golden armour and earrings, warm brown skin
+
+## Princess Madri
+- Reference: `sheet-12-madri-shalya.jpg` (left)
+- Appears in: Episode 10 onward; Pandu's second queen (future mother of Nakula and Sahadeva)
+- Light golden-fair warm skin, cheerful eyes; long black braid with white jasmine; small gold tiara with green jewel; emerald-green sari with gold border; gold bangles; holds a white lotus
+
+## King Shalya
+- Reference: `sheet-12-madri-shalya.jpg` (right)
+- Appears in: Episode 10 onward; king of Madra, Madri's older brother
+- Strong man, light golden-fair warm skin, wavy BLACK hair, black moustache and short black beard; tall silver crown with blue sapphire; deep blue and silver robes with teal shawl; silver armbands; bronze mace
