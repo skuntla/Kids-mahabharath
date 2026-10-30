@@ -18,8 +18,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-10-kunti-kuntibhoja-durvasa.jpg` | Princess Kunti, King Kuntibhoja, Sage Durvasa |
 | `characters/sheet-11-surya-adhiratha-radha.jpg` | Surya (Sun God), Adhiratha, Radha holding baby Karna |
 | `characters/sheet-12-madri-shalya.jpg` | Princess Madri, King Shalya |
+| `characters/sheet-13-kindama-deer.jpg` | Sage Kindama, his wife, the stag, the doe |
 
-Add a new sheet file per new character group (`sheet-13-….jpg`), and add the characters below.
+Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
 ## King Shantanu
 - Reference: `sheet-1-shantanu-ganga-devavrata.jpg` (left)
@@ -142,6 +143,7 @@ Add a new sheet file per new character group (`sheet-13-….jpg`), and add the c
 - Reference: `sheet-8-vyasa-dhritarashtra-pandu-vidura.jpg` (third from left)
 - Appears in: Episode 7 onward
 - Episode 8: grown up and crowned King Pandu (tall gold crown); reference `episodes/ep08/img/2-crown.jpg`
+- Episode 11: shoots the deer (Sage Kindama), is told he cannot have children in the usual way, sends his crown to Dhritarashtra and lives simply in a forest hut with Kunti and Madri, no crown, plain white dhoti and sky-blue cloth (see `episodes/ep11/img/4-sorry.jpg`, `6-hut.jpg`)
 - Episode 10: chosen by Kunti at her swayamvara, marries Madri too, wins many lands and shares the treasure; clean-shaven, curly black hair, pale ivory skin, white/silver dhoti with sky-blue sash, bow on shoulder (see `episodes/ep10/img/3-garland.jpg`, `6-share.jpg`)
 - Son of Queen Ambalika; pale skin; a wonderful archer (future father of the Pandavas)
 - Shown as a boy (~9): slim, noticeably pale ivory skin, straight black hair, small gold crown; white and silver tunic and dhoti with a sky-blue sash; small bow and quiver
@@ -222,10 +224,24 @@ Add a new sheet file per new character group (`sheet-13-….jpg`), and add the c
 
 ## Princess Madri
 - Reference: `sheet-12-madri-shalya.jpg` (left)
-- Appears in: Episode 10 onward; Pandu's second queen (future mother of Nakula and Sahadeva)
+- Appears in: Episode 10 onward (Episode 11: goes to live in the forest with Pandu, see `episodes/ep11/img/6-hut.jpg`); Pandu's second queen (future mother of Nakula and Sahadeva)
 - Light golden-fair warm skin, cheerful eyes; long black braid with white jasmine; small gold tiara with green jewel; emerald-green sari with gold border; gold bangles; holds a white lotus
 
 ## King Shalya
 - Reference: `sheet-12-madri-shalya.jpg` (right)
 - Appears in: Episode 10 onward; king of Madra, Madri's older brother
 - Strong man, light golden-fair warm skin, wavy BLACK hair, black moustache and short black beard; tall silver crown with blue sapphire; deep blue and silver robes with teal shawl; silver armbands; bronze mace
+
+## Sage Kindama
+- Reference: `sheet-13-kindama-deer.jpg` (left; the stag is his deer form)
+- Appears in: Episode 11
+- Gentle forest sage who took the form of a stag with his wife; hit by Pandu's arrow by mistake, he says Pandu will not have children in the usual way, then passes gently into the sky
+- Old, warm brown skin, long white beard, white hair in small top-knot, white ash lines on forehead; ochre-brown dhoti and cream shoulder cloth; rudraksha beads; barefoot
+
+## Sage Kindama's wife
+- Reference: `sheet-13-kindama-deer.jpg` (second from left; the doe is her deer form)
+- Appears in: Episode 11
+- Elderly gentle hermit woman, grey hair in a bun, plain saffron-cream cotton sari, wooden prayer beads; barefoot
+
+## Dhritarashtra as ruler (Episode 11)
+- Receives Pandu's crown and rules Hastinapura with Gandhari, Bhishma and Vidura beside him (see `episodes/ep11/img/5-crown.jpg`)
