@@ -19,6 +19,8 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-11-surya-adhiratha-radha.jpg` | Surya (Sun God), Adhiratha, Radha holding baby Karna |
 | `characters/sheet-12-madri-shalya.jpg` | Princess Madri, King Shalya |
 | `characters/sheet-13-kindama-deer.jpg` | Sage Kindama, his wife, the stag, the doe |
+| `characters/sheet-14-dharma-vayu-indra.jpg` | Dharma (Yama Dharmaraja), Vayu (wind god), Indra with white elephant Airavata |
+| `characters/sheet-15-baby-pandavas.jpg` | Baby Yudhishthira, baby Bhima, baby Arjuna |
 
 Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
@@ -182,7 +184,7 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 ## Kunti (born Pritha)
 - Reference: `sheet-10-kunti-kuntibhoja-durvasa.jpg` (left)
 - Appears in: Episode 9 onward (shown as a small child of ~5 in `episodes/ep09/img/1-new-home.jpg`; teenager ~15 elsewhere). Episode 10: grown up (~18), chooses Pandu at her swayamvara and becomes Queen Kunti (see `episodes/ep10/img/3-garland.jpg`)
-- Daughter of King Shurasena, given to and raised by King Kuntibhoja, who renames her Kunti. Receives Durvasa's secret prayer; calls Surya; mother of Karna (later marries Pandu)
+- Daughter of King Shurasena, given to and raised by King Kuntibhoja, who renames her Kunti. Receives Durvasa's secret prayer; calls Surya; mother of Karna (later marries Pandu). Episode 12: uses the prayer to call Dharma, Vayu and Indra; mother of Yudhishthira, Bhima and Arjuna (see `episodes/ep12/img/2-dharma.jpg`, `6-family.jpg`)
 - Warm brown skin, big gentle eyes; long black braid with pink lotus flowers; rose-pink and gold sari with gold border; small gold tiara; gold bangles; small brass oil lamp
 
 ## King Kuntibhoja
@@ -245,3 +247,36 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Dhritarashtra as ruler (Episode 11)
 - Receives Pandu's crown and rules Hastinapura with Gandhari, Bhishma and Vidura beside him (see `episodes/ep11/img/5-crown.jpg`)
+
+## Pandu in Episode 12
+- Same forest look as Episode 11: clean-shaven (NO beard), pale ivory skin, curly black hair, white dhoti, sky-blue cloth, no crown; becomes father of Yudhishthira, Bhima and Arjuna (see `episodes/ep12/img/1-stars.jpg`, `4-rock.jpg`, `6-family.jpg`). Always attach `episodes/ep11/img/6-hut.jpg` and describe him explicitly, or the generator draws an old bearded king.
+
+## Dharma (Yama Dharmaraja)
+- Reference: `sheet-14-dharma-vayu-indra.jpg` (left)
+- Appears in: Episode 12; god of goodness and truth, father of Yudhishthira
+- Dark blue-grey skin, kind calm face, neat black beard, tall golden crown, royal-blue and gold robes over cream dhoti, small golden scale, soft halo
+
+## Vayu
+- Reference: `sheet-14-dharma-vayu-indra.jpg` (middle)
+- Appears in: Episode 12; wind god, father of Bhima
+- Youthful, light sky-blue skin, long flowing silver-white hair, pale blue and white swirling robes and scarves, small silver crown, white fluttering flag, wind swirls
+
+## Indra
+- Reference: `sheet-14-dharma-vayu-indra.jpg` (right, with the elephant)
+- Appears in: Episode 12; king of the gods, father of Arjuna
+- Golden-fair skin, curled black moustache, tall jewelled golden crown, red and gold robes with pearl necklaces, golden thunderbolt (vajra); rides the gentle white elephant Airavata with red and gold cloth
+
+## Yudhishthira
+- Reference: `sheet-15-baby-pandavas.jpg` (left)
+- Appears in: Episode 12 onward (baby); eldest Pandava, son of Kunti through Dharma
+- Calm baby, warm brown skin, neat black hair, white dhoti with royal-blue band, small gold necklace, soft glow
+
+## Bhima
+- Reference: `sheet-15-baby-pandavas.jpg` (middle)
+- Appears in: Episode 12 onward (baby); second Pandava, son of Kunti through Vayu; broke a rock falling on it as a baby
+- Chubby, sturdy, big giggling grin, messy curly black hair, orange-saffron dhoti, gold armbands
+
+## Arjuna
+- Reference: `sheet-15-baby-pandavas.jpg` (right)
+- Appears in: Episode 12 onward (baby); third Pandava, son of Kunti through Indra; future greatest archer
+- Bright shining eyes, dusky darker brown skin, curly black hair, red and gold dhoti, small gold earrings, little toy bow
