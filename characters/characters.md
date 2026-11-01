@@ -280,3 +280,37 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 - Reference: `sheet-15-baby-pandavas.jpg` (right)
 - Appears in: Episode 12 onward (baby); third Pandava, son of Kunti through Indra; future greatest archer
 - Bright shining eyes, dusky darker brown skin, curly black hair, red and gold dhoti, small gold earrings, little toy bow
+
+## Pandu, Kunti and Madri in Episode 13
+- Same forest looks as Episode 12 (Pandu clean-shaven, pale ivory skin, curly black hair, white dhoti, sky-blue cloth; Kunti pink sari with lotus; Madri emerald sari with jasmine). Best Pandu reference: `episodes/ep13/img/1-river.jpg`. Kunti shares the prayer with Madri (`2-share.jpg`); five sons together in `4-five.jpg`.
+
+## Ashvini twins (Ashvins)
+- Reference: `sheet-16-ashvins-nakula-sahadeva.jpg` (left two)
+- Appears in: Episode 13; identical twin gods of healing, fathers of Nakula and Sahadeva
+- Golden-tan skin, wavy shoulder-length black hair, small golden crowns, turquoise and white robes with gold borders, each holds a little golden pot of herbs; ride a golden chariot pulled by shining white horses (`episodes/ep13/img/3-ashvins.jpg`)
+
+## Nakula
+- Reference: `sheet-16-ashvins-nakula-sahadeva.jpg` (third)
+- Appears in: Episode 13 onward (baby); fourth Pandava, Madri's son through the Ashvins; most handsome, great with horses
+- Baby with light wheat-brown skin, wavy black hair, green dhoti with gold band, gold necklace, wooden toy horse
+
+## Sahadeva
+- Reference: `sheet-16-ashvins-nakula-sahadeva.jpg` (right)
+- Appears in: Episode 13 onward (baby); fifth Pandava, Nakula's twin; very wise, knows the stars
+- Calm thoughtful baby, light wheat-brown skin, neat straight black hair, purple-violet dhoti with gold band, gold necklace, little stars nearby
+
+## Dhritarashtra in Episode 13
+- YOUNG man (~25), warm brown skin, long curly black hair, short neat black beard, royal blue robe with gold border, gold crown with blue jewel, eyes always gently closed (see `episodes/ep11/img/5-crown.jpg`, `episodes/ep13/img/5-waiting.jpg`). Describe him explicitly or the generator draws an old white-bearded king (that is Bhishma).
+
+## Gandhari in Episode 13
+- Waits two years; Vyasa splits the hard ball into 101 pieces kept in pots of ghee (`episodes/ep13/img/6-pots.jpg`); mother of the hundred Kauravas and Dushala (`7-babies.jpg`)
+
+## Duryodhana
+- Reference: `sheet-17-duryodhana-dushala.jpg` (left)
+- Appears in: Episode 13 onward (baby); eldest of the hundred Kaurava brothers, son of Gandhari and Dhritarashtra; born the same day as Bhima
+- Chubby baby, warm brown skin, thick wavy black hair, maroon-red dhoti with gold border, small gold crown-shaped headband, gold necklace and armbands
+
+## Dushala
+- Reference: `sheet-17-duryodhana-dushala.jpg` (right)
+- Appears in: Episode 13 onward (baby); the only sister of the hundred Kauravas, from the 101st pot
+- Sweet baby girl, warm brown skin, small black curls with a tiny pink flower, pink and gold frock, gold bangles and anklets
