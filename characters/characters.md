@@ -21,6 +21,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-13-kindama-deer.jpg` | Sage Kindama, his wife, the stag, the doe |
 | `characters/sheet-14-dharma-vayu-indra.jpg` | Dharma (Yama Dharmaraja), Vayu (wind god), Indra with white elephant Airavata |
 | `characters/sheet-15-baby-pandavas.jpg` | Baby Yudhishthira, baby Bhima, baby Arjuna |
+| `characters/sheet-16-ashvins-nakula-sahadeva.jpg` | Ashvini twin, Ashvini twin, baby Nakula, baby Sahadeva |
+| `characters/sheet-17-duryodhana-dushala.jpg` | Baby Duryodhana, baby Dushala |
+| `characters/sheet-18-young-pandavas.jpg` | Young Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva (boys ~8-12) |
 
 Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
@@ -314,3 +317,14 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 - Reference: `sheet-17-duryodhana-dushala.jpg` (right)
 - Appears in: Episode 13 onward (baby); the only sister of the hundred Kauravas, from the 101st pot
 - Sweet baby girl, warm brown skin, small black curls with a tiny pink flower, pink and gold frock, gold bangles and anklets
+
+## The five Pandavas as boys (Episode 14 onward)
+- Reference: `sheet-18-young-pandavas.jpg` (left to right: Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva), boys about 8 to 12, same colors as their baby sheets
+- Yudhishthira: white dhoti with royal-blue band, palm-leaf book, calm. Bhima: biggest, orange-saffron dhoti, gold armbands, wooden mace. Arjuna: dusky skin, red and gold dhoti, bow and quiver. Nakula: green dhoti, wooden toy horse. Sahadeva: purple-violet dhoti, little stars near his hand
+- Episode 14: grow up in the forest with the sages (`episodes/ep14/img/1-forest.jpg`), walk to Hastinapura with Kunti and the sages (`4-journey.jpg`), hugged by Bhishma at the city gates (`5-welcome.jpg`). Say "exactly five boys" in prompts; the generator sometimes adds a sixth child.
+
+## Pandu and Madri in Episode 14
+- Pandu passes away in the spring forest, as Sage Kindama foretold; Madri asks Kunti to raise Nakula and Sahadeva and goes with Pandu "to the stars". Shown only as gentle glowing figures in the night sky (`episodes/ep14/img/3-stars.jpg`). Kunti promises to love all five as her own (`2-promise.jpg`).
+
+## Satyavati, Ambika and Ambalika in Episode 14
+- Now old: Satyavati with a long white braid and white flowers, coral-red and cream sari; Ambika and Ambalika with grey-streaked hair in their usual yellow and lavender saris. Sage Vyasa leads them to rest in a forest hermitage (`episodes/ep14/img/6-satyavati.jpg`).
