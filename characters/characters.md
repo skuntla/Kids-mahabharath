@@ -328,3 +328,13 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Satyavati, Ambika and Ambalika in Episode 14
 - Now old: Satyavati with a long white braid and white flowers, coral-red and cream sari; Ambika and Ambalika with grey-streaked hair in their usual yellow and lavender saris. Sage Vyasa leads them to rest in a forest hermitage (`episodes/ep14/img/6-satyavati.jpg`).
+
+## The Kaurava children as kids (Episode 15 onward)
+- Reference: `sheet-19-young-kauravas.jpg` (left to right: Duryodhana, Dushasana, Dushala), kids about 7 to 10
+- Duryodhana: warm brown skin, thick wavy black hair, maroon-red dhoti with gold border, small gold crown-shaped headband, gold necklace and armbands, small wooden mace; eldest Kaurava, born the same day as Bhima. In Episode 15 he grows jealous of Bhima (`episodes/ep15/img/5-jealous.jpg`).
+- Dushasana (new in Episode 15): Duryodhana's next brother and constant shadow; short spiky black hair, dark green dhoti with gold border, gold armbands, cheeky grin.
+- Dushala: black curls with a tiny pink flower, pink and gold frock, gold bangles and anklets.
+- Other Kaurava brothers: generic boys in maroon or green dhotis with gold borders.
+
+## Bhima in Episode 15
+- The strongest boy: wins every race (`episodes/ep15/img/2-race.jpg`), dunks cousins in the palace pond (`3-pond.jpg`), shakes them out of the mango tree (`4-mango.jpg`). Kunti teaches him strength is for helping and protecting (`6-kunti.jpg`). The generator sometimes draws him chubby; keep orange-saffron dhoti and gold armbands.
