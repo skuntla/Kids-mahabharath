@@ -24,6 +24,8 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-16-ashvins-nakula-sahadeva.jpg` | Ashvini twin, Ashvini twin, baby Nakula, baby Sahadeva |
 | `characters/sheet-17-duryodhana-dushala.jpg` | Baby Duryodhana, baby Dushala |
 | `characters/sheet-18-young-pandavas.jpg` | Young Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva (boys ~8-12) |
+| `characters/sheet-19-young-kauravas.jpg` | Young Duryodhana, Dushasana, Dushala (kids ~7-10) |
+| `characters/sheet-20-vasuki-aryaka-naga.jpg` | King Vasuki, Aryaka, a Naga guard |
 
 Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
@@ -338,3 +340,20 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Bhima in Episode 15
 - The strongest boy: wins every race (`episodes/ep15/img/2-race.jpg`), dunks cousins in the palace pond (`3-pond.jpg`), shakes them out of the mango tree (`4-mango.jpg`). Kunti teaches him strength is for helping and protecting (`6-kunti.jpg`). The generator sometimes draws him chubby; keep orange-saffron dhoti and gold armbands.
+
+## King Vasuki (Naga king)
+- Reference: `sheet-20-vasuki-aryaka-naga.jpg` (left)
+- Appears in: Episode 16; king of the Nagas (snake people) in a jewelled kingdom under the river; gives Bhima the magic drink
+- Giant friendly emerald-green and gold serpent with five cobra hoods, kind golden eyes, small golden jewelled crown, glowing blue jewel (see `episodes/ep16/img/4-vasuki.jpg`)
+
+## Aryaka
+- Reference: `sheet-20-vasuki-aryaka-naga.jpg` (middle)
+- Appears in: Episode 16; very old Naga, maternal grandfather of Kunti's father Shurasena, recognises Bhima as family
+- Old man's face and torso, warm brown skin, long white beard and hair, silver crown with blue jewel, pearl necklace, pale silver-blue coiled snake tail, small silver cobra hood above his head; holds a golden bowl
+
+## Naga guards
+- Reference: `sheet-20-vasuki-aryaka-naga.jpg` (right); in scenes they may also be drawn as friendly green cobras (`episodes/ep16/img/3-snap.jpg`)
+- Teal skin, small cobra hood, turquoise sash, gold armbands, green snake tail, small spear
+
+## Bhima in Episode 16
+- Duryodhana feeds him sleepy sweets at the riverside picnic, ties him with vines and pushes him into the Ganga (`episodes/ep16/img/1-picnic.jpg`, `2-river.jpg`); the snake bites take away the poison, he snaps the vines, drinks eight bowls of nectar (strength of a thousand elephants each, `5-nectar.jpg`), sleeps eight days and returns home to Kunti, his brothers and Vidura (`6-home.jpg`, which shows grown Vidura: short black hair and beard, green and cream cloth)
