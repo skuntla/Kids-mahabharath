@@ -26,6 +26,7 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-18-young-pandavas.jpg` | Young Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva (boys ~8-12) |
 | `characters/sheet-19-young-kauravas.jpg` | Young Duryodhana, Dushasana, Dushala (kids ~7-10) |
 | `characters/sheet-20-vasuki-aryaka-naga.jpg` | King Vasuki, Aryaka, a Naga guard |
+| `characters/sheet-21-kripa-drona-ashwatthama.jpg` | Guru Kripa, Guru Drona, Ashwatthama |
 
 Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
@@ -357,3 +358,24 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Bhima in Episode 16
 - Duryodhana feeds him sleepy sweets at the riverside picnic, ties him with vines and pushes him into the Ganga (`episodes/ep16/img/1-picnic.jpg`, `2-river.jpg`); the snake bites take away the poison, he snaps the vines, drinks eight bowls of nectar (strength of a thousand elephants each, `5-nectar.jpg`), sleeps eight days and returns home to Kunti, his brothers and Vidura (`6-home.jpg`, which shows grown Vidura: short black hair and beard, green and cream cloth)
+
+## Guru Kripa
+- Reference: `sheet-21-kripa-drona-ashwatthama.jpg` (left)
+- Appears in: Episode 17 onward; first teacher of the princes. As a baby he and his twin sister Kripi were found in the forest by King Shantanu, who named them for kindness ("kripa") and raised them
+- Man about 40, warm brown skin, black hair in a top-knot, short black beard, saffron-orange dhoti and shawl, pearl/white bead necklace, wooden bow (see `episodes/ep17/img/1-kripa.jpg`)
+
+## Guru Drona (Dronacharya)
+- Reference: `sheet-21-kripa-drona-ashwatthama.jpg` (middle)
+- Appears in: Episode 17 onward; son of Sage Bharadwaja, student of Parashurama, husband of Kripi; Drupada (Episode 6) was his childhood friend who broke his promise. Becomes the great teacher of the Pandavas and Kauravas
+- Thin man about 50, dusky brown skin, grey hair in a top-knot, short grey beard, faded pale-ochre dhoti with a plain white shawl (humble clothes), rudraksha beads, long bow and quiver on his back (see `episodes/ep17/img/3-stranger.jpg`, `4-grass.jpg`, `5-ring.jpg`)
+
+## Ashwatthama
+- Reference: `sheet-21-kripa-drona-ashwatthama.jpg` (right)
+- Appears in: Episode 17 onward; Drona and Kripi's son, learns with the princes
+- Boy about 9, light brown skin, black curly hair in a small top-knot, sky-blue dhoti, small bow (he is said to have a jewel on his forehead; keep it small if shown)
+
+## Kripi
+- No sheet yet; Drona's wife and Kripa's twin sister. Drawn in `episodes/ep17/img/6-guru.jpg`: gentle woman, warm brown skin, black hair in a bun, simple saffron-orange cotton sari
+
+## Episode 17 scenes
+- Kripa teaches archery (`1-kripa.jpg`), ball and Yudhishthira's ring fall in the well (`2-well.jpg`), Drona arrives with grass blades (`3-stranger.jpg`), grass chain lifts the ball (`4-grass.jpg`), arrow brings up the ring (`5-ring.jpg`), Bhishma (old: white hair and beard, gold crown, white robe, purple sash, teal shawl) welcomes Drona, Kripi and Ashwatthama (`6-guru.jpg`)
