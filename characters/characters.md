@@ -323,7 +323,7 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## The five Pandavas as boys (Episode 14 onward)
 - Reference: `sheet-18-young-pandavas.jpg` (left to right: Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva), boys about 8 to 12, same colors as their baby sheets
-- Yudhishthira: white dhoti with royal-blue band, palm-leaf book, calm. Bhima: biggest, orange-saffron dhoti, gold armbands, wooden mace. Arjuna: dusky skin, red and gold dhoti, bow and quiver. Nakula: green dhoti, wooden toy horse. Sahadeva: purple-violet dhoti, little stars near his hand
+- Yudhishthira: white dhoti with royal-blue band, palm-leaf book, calm. Bhima: biggest, orange-saffron dhoti, gold armbands, wooden mace. Arjuna: dusky skin, red and gold dhoti, bow and quiver. Episode 18: practices at night and passes Drona's bird-eye test (`episodes/ep18/img/5-eye.jpg`). Nakula: green dhoti, wooden toy horse. Sahadeva: purple-violet dhoti, little stars near his hand
 - Episode 14: grow up in the forest with the sages (`episodes/ep14/img/1-forest.jpg`), walk to Hastinapura with Kunti and the sages (`4-journey.jpg`), hugged by Bhishma at the city gates (`5-welcome.jpg`). Say "exactly five boys" in prompts; the generator sometimes adds a sixth child.
 
 ## Pandu and Madri in Episode 14
