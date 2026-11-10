@@ -379,3 +379,16 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 17 scenes
 - Kripa teaches archery (`1-kripa.jpg`), ball and Yudhishthira's ring fall in the well (`2-well.jpg`), Drona arrives with grass blades (`3-stranger.jpg`), grass chain lifts the ball (`4-grass.jpg`), arrow brings up the ring (`5-ring.jpg`), Bhishma (old: white hair and beard, gold crown, white robe, purple sash, teal shawl) welcomes Drona, Kripi and Ashwatthama (`6-guru.jpg`)
+
+## Ekalavya
+- Reference: `sheet-22-ekalavya-clay-drona-dog.jpg` (left)
+- Appears in: Episode 19 onward; son of Hiranyadhanu, chief of the Nishada forest people. Drona refuses to teach him (he teaches only the princes), so he makes a clay statue of Drona and practices before it until he becomes an amazing archer
+- Boy about 12, dark brown skin, long wavy black hair tied back, one peacock feather, brown short dhoti with a green cloth sash, wooden-bead necklace with a small white pendant, bamboo bow, quiver (see `episodes/ep19/img/1-bow.jpg`, `3-practice.jpg`). Note: the generator once gave a prince a peacock feather too (`5-gasp.jpg`); say "no feather" for the princes.
+
+## Clay statue of Drona
+- Reference: `sheet-22-ekalavya-clay-drona-dog.jpg` (middle)
+- Appears in: Episode 19 onward; reddish-brown terracotta Drona with top-knot, beard, shawl and bow, on a round stone base with orange marigolds
+
+## The hunting dog
+- Reference: `sheet-22-ekalavya-clay-drona-dog.jpg` (right)
+- Appears in: Episode 19; brown, black and white dog with floppy ears; Ekalavya stops his barking with seven arrows that don't hurt him (`episodes/ep19/img/4-dog.jpg`)
