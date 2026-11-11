@@ -382,7 +382,7 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Ekalavya
 - Reference: `sheet-22-ekalavya-clay-drona-dog.jpg` (left)
-- Appears in: Episode 19 onward; son of Hiranyadhanu, chief of the Nishada forest people. Drona refuses to teach him (he teaches only the princes), so he makes a clay statue of Drona and practices before it until he becomes an amazing archer
+- Appears in: Episodes 19-20 onward; son of Hiranyadhanu, chief of the Nishada forest people. Drona refuses to teach him (he teaches only the princes), so he makes a clay statue of Drona and practices before it until he becomes an amazing archer
 - Boy about 12, dark brown skin, long wavy black hair tied back, one peacock feather, brown short dhoti with a green cloth sash, wooden-bead necklace with a small white pendant, bamboo bow, quiver (see `episodes/ep19/img/1-bow.jpg`, `3-practice.jpg`). Note: the generator once gave a prince a peacock feather too (`5-gasp.jpg`); say "no feather" for the princes.
 
 ## Clay statue of Drona
@@ -392,3 +392,6 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 ## The hunting dog
 - Reference: `sheet-22-ekalavya-clay-drona-dog.jpg` (right)
 - Appears in: Episode 19; brown, black and white dog with floppy ears; Ekalavya stops his barking with seven arrows that don't hurt him (`episodes/ep19/img/4-dog.jpg`)
+
+## Episode 20 scenes
+- Arjuna worries on the forest path with Drona (`episodes/ep20/img/1-worry.jpg`), Ekalavya touches Drona's feet by the clay statue (`2-bow.jpg`), offers fruits and flowers while Drona thinks of his guru-dakshina (`3-ask.jpg`), Drona blesses Ekalavya after he gives his right thumb (shown gently, no injury: `4-blessing.jpg`), princes walk home at sunset (`5-home.jpg`), Ekalavya keeps practicing holding arrows with his fingers (`6-practice.jpg`). Ekalavya appears in Episodes 19 and 20.
