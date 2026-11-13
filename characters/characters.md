@@ -214,9 +214,10 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Adhiratha
 - Reference: `sheet-11-surya-adhiratha-radha.jpg` (middle)
-- Appears in: Episode 9 onward
+- Appears in: Episode 9, Episode 22
 - Kind chariot driver who finds baby Karna in a basket on the river; Karna's foster father
 - Warm brown skin, black moustache, white turban; brown vest over cream kurta, white dhoti; horse whip
+- Old (Episode 22): grey hair and white beard, same white turban, brown vest and cream kurta, wooden walking stick (see `episodes/ep22/img/5-father.jpg`)
 
 ## Radha
 - Reference: `sheet-11-surya-adhiratha-radha.jpg` (right)
@@ -229,7 +230,7 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 - Appears in: Episode 9 onward
 - Son of Kunti and Surya, born with golden armour (kavacha) on his chest and golden earrings (kundala); named Vasusena by Adhiratha and Radha, later known as Karna
 - Baby: curly black hair, chubby, glowing softly, tiny golden armour and earrings. Later: same golden armour and earrings, warm brown skin
-- Grown up (Episode 21 onward): `sheet-23-karna-kunti.jpg` (left). Tall young man about 18, warm brown skin, curly shoulder-length black hair, white tilak, glowing golden breastplate armour (kavacha) with a sun emblem, round golden earrings (kundala), red-orange sash over white dhoti, white shawl, big bow, golden sunlight glow (see `episodes/ep21/img/6-karna.jpg`)
+- Grown up (Episode 21 onward): `sheet-23-karna-kunti.jpg` (left). Tall young man about 18, warm brown skin, curly shoulder-length black hair, white tilak, glowing golden breastplate armour (kavacha) with a sun emblem, round golden earrings (kundala), red-orange sash over white dhoti, white shawl, big bow, golden sunlight glow (see `episodes/ep21/img/6-karna.jpg`). From Episode 22 he is King of Anga and also wears a tall golden crown (`episodes/ep22/img/4-crown.jpg`, `5-father.jpg`)
 
 ## Princess Madri
 - Reference: `sheet-12-madri-shalya.jpg` (left)
@@ -402,3 +403,6 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 21 scenes
 - The tournament arena with Dhritarashtra, Vidura, Gandhari, Kunti, Drona, Ashwatthama and the princes now teenagers about 15-16 (`episodes/ep21/img/1-arena.jpg`), Ashwatthama stops Bhima and Duryodhana's mace fight (`2-maces.jpg`), Arjuna's fire, rain and wind arrows (`3-magic.jpg`), 21 arrows in the swinging cow's horn (`4-horn.jpg`), Kunti's happy tears with Gandhari, Dhritarashtra and Vidura (`5-kunti.jpg`), Karna appears at the gate slapping his arm while Kunti holds her breath (`6-karna.jpg`). Arjuna is drawn in a red dhoti in this episode.
+
+## Episode 22 scenes
+- Karna bows to Drona and Kripa while Arjuna watches (`episodes/ep22/img/1-bow.jpg`), Karna repeats Arjuna's fire, rain, wind and horn feats as Duryodhana cheers (`2-skills.jpg`), Kripa asks his family and Karna looks down (`3-question.jpg`), Duryodhana makes him King of Anga with holy water, crown and white umbrella (`4-crown.jpg`), Karna touches old Adhiratha's feet (`5-father.jpg`), Karna and Duryodhana hold hands at sunset as Kunti rests after fainting (`6-friends.jpg`). Duryodhana is drawn as a teen with a small gold crown, bead necklace, maroon sash and yellow dhoti, no armour.
