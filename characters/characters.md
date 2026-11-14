@@ -406,3 +406,6 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 22 scenes
 - Karna bows to Drona and Kripa while Arjuna watches (`episodes/ep22/img/1-bow.jpg`), Karna repeats Arjuna's fire, rain, wind and horn feats as Duryodhana cheers (`2-skills.jpg`), Kripa asks his family and Karna looks down (`3-question.jpg`), Duryodhana makes him King of Anga with holy water, crown and white umbrella (`4-crown.jpg`), Karna touches old Adhiratha's feet (`5-father.jpg`), Karna and Duryodhana hold hands at sunset as Kunti rests after fainting (`6-friends.jpg`). Duryodhana is drawn as a teen with a small gold crown, bead necklace, maroon sash and yellow dhoti, no armour.
+
+## Episode 23 scenes
+- Drona asks for his guru-dakshina under a big tree (`episodes/ep23/img/1-gift.jpg`), the Kauravas and Karna turn their chariots back under Panchala arrows (`2-kauravas.jpg`), Bhima swings his mace while Arjuna calls him to stop (`3-bhima.jpg`), Arjuna leaps onto Drupada's chariot (`4-leap.jpg`), Drona offers friendship to Drupada after taking half the kingdom (`5-friends.jpg`), Drupada rides home at sunset making his wish (`6-wish.jpg`). Drupada is drawn as on sheet 7 (gold crown, black beard, maroon robe, mustard shawl), now a bit older.
