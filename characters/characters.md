@@ -27,6 +27,9 @@ When generating new pictures, attach the reference sheet(s) for every character 
 | `characters/sheet-19-young-kauravas.jpg` | Young Duryodhana, Dushasana, Dushala (kids ~7-10) |
 | `characters/sheet-20-vasuki-aryaka-naga.jpg` | King Vasuki, Aryaka, a Naga guard |
 | `characters/sheet-21-kripa-drona-ashwatthama.jpg` | Guru Kripa, Guru Drona, Ashwatthama |
+| `characters/sheet-22-ekalavya-clay-drona-dog.jpg` | Ekalavya, clay statue of Drona, the hunting dog |
+| `characters/sheet-23-karna-kunti.jpg` | Grown-up Karna, Kunti (white sari) |
+| `characters/sheet-24-yaja-upayaja-dhrishtadyumna-draupadi.jpg` | Sage Yaja, Sage Upayaja, Dhrishtadyumna, Draupadi |
 
 Add a new sheet file per new character group (`sheet-14-….jpg`), and add the characters below.
 
@@ -409,3 +412,20 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 23 scenes
 - Drona asks for his guru-dakshina under a big tree (`episodes/ep23/img/1-gift.jpg`), the Kauravas and Karna turn their chariots back under Panchala arrows (`2-kauravas.jpg`), Bhima swings his mace while Arjuna calls him to stop (`3-bhima.jpg`), Arjuna leaps onto Drupada's chariot (`4-leap.jpg`), Drona offers friendship to Drupada after taking half the kingdom (`5-friends.jpg`), Drupada rides home at sunset making his wish (`6-wish.jpg`). Drupada is drawn as on sheet 7 (gold crown, black beard, maroon robe, mustard shawl), now a bit older.
+
+## Sage Yaja and Sage Upayaja
+- Reference: `sheet-24-yaja-upayaja-dhrishtadyumna-draupadi.jpg` (1st and 2nd from left)
+- Appears in: Episode 24; sage brothers who perform Drupada's fire prayer (yagna). Yaja (elder): about 60, long white beard, white top-knot, saffron-orange dhoti and shawl, rudraksha beads, wooden ladle. Upayaja (younger): about 45, black beard and top-knot, white/pale-yellow dhoti and shawl, rudraksha beads, small pot of ghee. Upayaja first says no, then sends Drupada to Yaja
+
+## Dhrishtadyumna
+- Reference: `sheet-24-yaja-upayaja-dhrishtadyumna-draupadi.jpg` (3rd from left)
+- Appears in: Episode 24 onward; son of Drupada, born out of the sacred fire with crown, armour, sword, bow and chariot; a sky voice says he is born to win against Drona. Drona later teaches him archery anyway
+- Young man about 18, warm brown skin, wavy black shoulder-length hair, gold crown with red jewel, golden-red armour with sun emblem, red dhoti, sword and bow, a warm flame glow
+
+## Draupadi (Krishnaa, Panchali)
+- Reference: `sheet-24-yaja-upayaja-dhrishtadyumna-draupadi.jpg` (right)
+- Appears in: Episode 24 onward; daughter of Drupada who rose from the fire altar; dark beautiful skin (Krishnaa), lotus-petal eyes, long curly black hair, smells of blue lotuses; also called Draupadi (Drupada's daughter) and Panchali (from Panchala)
+- Young woman about 17, deep blue silk sari with gold border, gold jewellery, soft glow, small blue lotus flowers around her. Draw her skin clearly dark
+
+## Episode 24 scenes
+- Drupada searches along the Ganga (`episodes/ep24/img/1-search.jpg`), bows to Upayaja who says no while Yaja sits by the hut (`2-sages.jpg`), the sages' fire prayer (`3-fire.jpg`), Dhrishtadyumna steps out of the fire with a chariot waiting (`4-son.jpg`), Draupadi rises with blue lotuses (`5-daughter.jpg`), Drupada hugs both while Shikhandi runs in (`6-family.jpg`). Shikhandi now drawn as a child about 10 in a green tunic. Note: with sheet 7 attached, the generator once added Lord Shiva and children; say "no gods, no children" when not wanted.
