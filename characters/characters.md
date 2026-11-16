@@ -429,3 +429,17 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 24 scenes
 - Drupada searches along the Ganga (`episodes/ep24/img/1-search.jpg`), bows to Upayaja who says no while Yaja sits by the hut (`2-sages.jpg`), the sages' fire prayer (`3-fire.jpg`), Dhrishtadyumna steps out of the fire with a chariot waiting (`4-son.jpg`), Draupadi rises with blue lotuses (`5-daughter.jpg`), Drupada hugs both while Shikhandi runs in (`6-family.jpg`). Shikhandi now drawn as a child about 10 in a green tunic. Note: with sheet 7 attached, the generator once added Lord Shiva and children; say "no gods, no children" when not wanted.
+
+## Purochana
+- Reference: `sheet-25-purochana-digger-lac-house.jpg` (left)
+- Appears in: Episode 25 onward; Duryodhana's sly minister who builds the house of lac at Varanavata. Man about 45, thin, pointed black moustache and small beard, dark purple turban and kurta, mustard sash; drawn kid-friendly, not scary
+
+## The digger (Vidura's tunnel-digger)
+- Reference: `sheet-25-purochana-digger-lac-house.jpg` (middle)
+- Appears in: Episode 25 onward; kind sturdy man about 40, short grey-black beard, brown headband, brown dhoti, earth-coloured shawl, small spade and clay lamp; digs the secret tunnel
+
+## The house of lac (Varanavata)
+- Reference: `sheet-25-purochana-digger-lac-house.jpg` (right), shiny honey-orange domed house with ghee jars by the door
+
+## Episode 25 scenes
+- Dhritarashtra crowns teen Yudhishthira while Duryodhana frowns (`episodes/ep25/img/1-crown.jpg`), Duryodhana asks his father to send the Pandavas to Varanavata (`2-ask.jpg`), Purochana's workers build the house of lac (`3-build.jpg`), Vidura whispers the riddle to Yudhishthira at the gate with Kunti and brothers (`4-riddle.jpg`), Yudhishthira sniffs the lac walls while Bhima clenches fists (`5-sniff.jpg`), the digger digs the tunnel at night with Yudhishthira and Bhima watching (`6-tunnel.jpg`). Pandavas drawn as teens ~16; use episodes/ep23/img/3-bhima.jpg as a reference to keep them teenage (sheet 18 alone makes them small boys). Vidura: neat black beard, white-and-blue robes, not a forest sage.
