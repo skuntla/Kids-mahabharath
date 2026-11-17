@@ -443,3 +443,9 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 25 scenes
 - Dhritarashtra crowns teen Yudhishthira while Duryodhana frowns (`episodes/ep25/img/1-crown.jpg`), Duryodhana asks his father to send the Pandavas to Varanavata (`2-ask.jpg`), Purochana's workers build the house of lac (`3-build.jpg`), Vidura whispers the riddle to Yudhishthira at the gate with Kunti and brothers (`4-riddle.jpg`), Yudhishthira sniffs the lac walls while Bhima clenches fists (`5-sniff.jpg`), the digger digs the tunnel at night with Yudhishthira and Bhima watching (`6-tunnel.jpg`). Pandavas drawn as teens ~16; use episodes/ep23/img/3-bhima.jpg as a reference to keep them teenage (sheet 18 alone makes them small boys). Vidura: neat black beard, white-and-blue robes, not a forest sage.
+
+## The boatman (Vidura's boatman)
+- No sheet (Episode 26): friendly man in simple white dhoti and white turban with an oar; says Vidura's secret words and rows the Pandavas across the Ganga (see `episodes/ep26/img/5-boat.jpg`)
+
+## Episode 26 scenes
+- Kunti's feast with Purochana watching (`episodes/ep26/img/1-feast.jpg`), Bhima with torch and family entering the tunnel while Purochana sleeps (`2-torch.jpg`), crawling through the tunnel (`3-crawl.jpg`), Bhima carrying Kunti and the twins through the forest (`4-carry.jpg`), the boatman rowing across the Ganga at sunrise (`5-boat.jpg`), Bhishma crying in Hastinapura while Vidura secretly smiles (`6-vidura.jpg`). Purochana, Kunti and the five brothers also appear; use episodes/ep25/img/5-sniff.jpg as the family reference.
