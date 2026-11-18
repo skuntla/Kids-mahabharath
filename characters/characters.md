@@ -449,3 +449,14 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 26 scenes
 - Kunti's feast with Purochana watching (`episodes/ep26/img/1-feast.jpg`), Bhima with torch and family entering the tunnel while Purochana sleeps (`2-torch.jpg`), crawling through the tunnel (`3-crawl.jpg`), Bhima carrying Kunti and the twins through the forest (`4-carry.jpg`), the boatman rowing across the Ganga at sunrise (`5-boat.jpg`), Bhishma crying in Hastinapura while Vidura secretly smiles (`6-vidura.jpg`). Purochana, Kunti and the five brothers also appear; use episodes/ep25/img/5-sniff.jpg as the family reference.
+
+## Hidimba
+- Reference: `sheet-26-hidimba-hidimbi.jpg` (left)
+- Appears in: Episode 27; a huge rakshasa (forest giant) living in a tall tree; Bhima defeats him while guarding his sleeping family. Drawn friendly-grumpy, not scary: dark slate-grey skin, wild reddish-brown hair and beard, round yellow eyes, two small tusks, big belly, leaf-and-bark skirt, knobby wooden club
+
+## Hidimbi
+- Reference: `sheet-26-hidimba-hidimbi.jpg` (middle = giant form, right = human form)
+- Appears in: Episode 27 onward; Hidimba's sister, who warns Bhima and asks to marry him. Giant form: grey skin, red-brown hair tied with vines, leaf dress. Human form: young woman ~18, long wavy black hair with red flowers, green-and-gold sari, wildflower garland
+
+## Episode 27 scenes
+- Bhima brings water in his wet shawl while Kunti and the brothers sleep under a banyan tree (`episodes/ep27/img/1-tree.jpg`), Hidimba sniffing in the treetop with Hidimbi (`2-sniff.jpg`), Hidimbi in human form warning Bhima beside the sleeping family (`3-warn.jpg`), Bhima wrestling Hidimba (`4-wrestle.jpg`), Hidimba lies dazed with stars while the family watches (`5-thud.jpg`), Hidimbi folds her hands before Kunti (`6-ask.jpg`). Note: with sheet 26 the generator kept adding a row of children to the treetop scene; describing "exactly two giants, close-up, nobody else" fixed it.
