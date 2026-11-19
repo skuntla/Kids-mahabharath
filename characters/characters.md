@@ -460,3 +460,10 @@ Add a new sheet file per new character group (`sheet-14-….jpg`), and add the c
 
 ## Episode 27 scenes
 - Bhima brings water in his wet shawl while Kunti and the brothers sleep under a banyan tree (`episodes/ep27/img/1-tree.jpg`), Hidimba sniffing in the treetop with Hidimbi (`2-sniff.jpg`), Hidimbi in human form warning Bhima beside the sleeping family (`3-warn.jpg`), Bhima wrestling Hidimba (`4-wrestle.jpg`), Hidimba lies dazed with stars while the family watches (`5-thud.jpg`), Hidimbi folds her hands before Kunti (`6-ask.jpg`). Note: with sheet 26 the generator kept adding a row of children to the treetop scene; describing "exactly two giants, close-up, nobody else" fixed it.
+
+## Ghatotkacha
+- Reference: `sheet-27-ghatotkacha.jpg` (left = baby, middle = grown up; right = Hidimbi in human form)
+- Appears in: Episode 28 onward; son of Bhima and Hidimbi. Name means "head like a smooth pot": completely bald, round, shiny head (a normal head, NOT an actual pot). Grows from baby to tall gentle giant young man in one day; warm grey-brown skin, kind big eyes, gold earrings and armbands, red and mustard dhoti, leaf garland, wooden mace. Promises to come whenever the Pandavas think of him.
+
+## Episode 28 scenes
+- Bhima and Hidimbi exchange garlands while Kunti blesses (`episodes/ep28/img/1-garland.jpg`), Hidimbi flies with Bhima over mountains (`2-fly.jpg`), Hidimbi holds baby Ghatotkacha while Bhima pats his head (`3-baby.jpg`), baby grows into the giant in golden sparkles (`4-grow.jpg`), Ghatotkacha bows to Kunti (`5-promise.jpg`), Vyasa sends the Pandavas, dressed as simple sages in saffron-and-cream with topknots, to Ekachakra (`6-vyasa.jpg`). Note: using sheet 27 as a reference made the generator draw Bhima bald; for Bhima scenes use episodes/ep23/img/3-bhima.jpg and say "Bhima has thick curly black hair, NOT bald".
